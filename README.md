@@ -16,6 +16,7 @@
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 - **12-Bit Prophet Engine**: Authentic vintage quantization with variable clock rates (44.1kHz down to 6kHz) for classic aliasing.
+- **Standalone Mode**: Runs as a native application on macOS (Sonoma, Sequoia, Tahoe) without a browser.
 - **Tuned Looping**: Advanced sampler logic that forces audio segments to cycle at MIDI-responsive frequencies.
 - **Dub Filter**: 4-pole (24dB/oct) State Variable Filter with asymmetrical saturation for analog warmth.
 - **Space Echo**: Multi-tap delay with non-linear feedback and "Tail-Resample" technology for infinite sound design.
