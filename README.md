@@ -16,7 +16,6 @@
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 - **12-Bit Prophet Engine**: Authentic vintage quantization with variable clock rates (44.1kHz down to 6kHz) for classic aliasing.
-- **Standalone Mode**: Runs as a native application on macOS (Sonoma, Sequoia, Tahoe) without a browser.
 - **Tuned Looping**: Advanced sampler logic that forces audio segments to cycle at MIDI-responsive frequencies.
 - **Dub Filter**: 4-pole (24dB/oct) State Variable Filter with asymmetrical saturation for analog warmth.
 - **Space Echo**: Multi-tap delay with non-linear feedback and "Tail-Resample" for sound design.
@@ -34,11 +33,6 @@
 ---
 
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
-
-### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
-1. Download the latest `Dubform.app.zip`.
-2. Drag to your **Applications** folder.
-3. Launch `Dubform`. Experience the grit of 12-bit sampling.
 
 ### 𝐕𝐒𝐓𝟑 (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
 1. Copy `Dubform.vst3` to `/Library/Audio/Plug-Ins/VST3`.
